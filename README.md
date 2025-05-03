@@ -32,7 +32,7 @@ Estoy en continuo desarrollo personal y profesional, creciendo cada día como ha
 ## 💡 Intereses actuales
 
 - 🧪 Hacking ético y gadgets de ciberseguridad como Flipper Zero, USB Rubber Ducky, Digispark...
-- 🎬 Creación de vídeos educativos con estilo dinámico (speed ramp, efectos virales)
+- 🎬 Creación de vídeos educativos con estilo dinámico
 - 🧰 Automatización y scripting
 - 👨‍🏫 Dinámicas para la formación accesible en ciberseguridad y competencias digitales
 
