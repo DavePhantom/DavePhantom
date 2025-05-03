@@ -2,7 +2,7 @@
 
 💻 Estudiante de Ciberseguridad · Técnico Informático · Programador Web  
 🎓 Docente apasionado por compartir el conocimiento  
-🛠️ Explorador incansable del hardware hacking, la automatización y los retos técnicos  
+🛠️ Explorador del hardware hacking, la automatización y los retos técnicos  
 🎥 Interesado en la creación de contenido educativo impactante y accesible
 
 ---
